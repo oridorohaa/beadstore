@@ -1,0 +1,8 @@
+.auth-container {
+  display: flex;
+  justify-content: space-between;
+  width: 900px;
+  //top/bottom ==30 and sides == auto ----> always centered on the page
+  // no matter the screen size
+  margin: 30px auto;
+}
