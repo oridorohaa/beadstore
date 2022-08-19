@@ -1,0 +1,13 @@
+.checkout-container {
+  display: flex;
+  flex-direction: column;
+  .item-container {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+  }
+  .quantity-container {
+    display: flex;
+    flex-direction: row;
+  }
+}

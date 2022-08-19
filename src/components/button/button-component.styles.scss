@@ -43,4 +43,12 @@
       border: none;
     }
   }
+
+  &.checkout {
+    background-color: white;
+    color: black;
+    border: none;
+    min-width: 50px;
+    font-size: 45px;
+  }
 }
